@@ -1,6 +1,8 @@
 # Bitprice
 
-**TODO: Add description**
+This is a simple elixir application that uses GenServer to get crypt prices from the https://coincap.io api every 5 seconds.
+
+The purpose is simply to gain a little practice with gen server.
 
 ## Installation
 
